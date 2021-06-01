@@ -1,0 +1,136 @@
+.header {
+  text-align: center;
+  font-size: 150%;
+}
+
+.body {
+  background-color: linen;
+}
+
+.center {
+  margin: auto;
+  width: 600px;
+  border: 1px solid black;
+  position: sticky;
+  top: 0;
+}
+
+.leads {
+  width: 20%;
+  margin: auto;
+}
+
+.links {
+  text-align: center;
+  font-size: 100%;
+}
+
+.one {
+  float: left;
+  width: 15%;
+  padding: 1%;
+  border: 15px double white;
+  margin: 1%;
+}
+
+.problems {
+  font-size: 150%;
+  text-align: center;
+  padding: 100px 0;
+}
+
+.quoteone {
+  content: "";
+  clear: both;
+  display: table;
+  border: 2px solid white;
+  width: 100%;
+}
+
+.two {
+  float: right;
+  width: 15%;
+  padding: 1%;
+  border: 15px double white;
+  margin: 1%;
+}
+
+.trust {
+  font-size: 150%;
+  text-align: center;
+  padding: 150px 0;
+}
+
+.quotetwo {
+  content: "";
+  clear: both;
+  display: table;
+  border: 2px solid white;
+  width: 100%;
+}
+
+.three {
+  float: left;
+  width: 15%;
+  padding: 1%;
+  border: 15px double white;
+  margin: 1%;
+}
+
+.good {
+  font-size: 150%;
+  text-align: center;
+  padding: 150px 0;
+}
+
+.quotethree {
+  content: "";
+  clear: both;
+  display: table;
+  border: 2px solid white;
+  width: 100%;
+}
+
+.four {
+  float: right;
+  width: 15%;
+  padding: 1%;
+  border: 15px double white;
+  margin: 1%;
+}
+
+.dreams {
+  font-size: 150%;
+  text-align: center;
+  padding: 150px 0;
+}
+
+.quotefour {
+  content: "";
+  clear: both;
+  display: table;
+  border: 2px solid white;
+  width: 100%;
+}
+
+.five {
+  float: left;
+  width: 15%;
+  padding: 1%;
+  border: 15px double white;
+  margin: 1%;
+}
+
+.climb {
+  font-size: 150%;
+  text-align: center;
+  padding: 200px 0;
+}
+
+.quotefive {
+  content: "";
+  clear: both;
+  display: table;
+  border: 2px solid white;
+  width: 100%;
+}
